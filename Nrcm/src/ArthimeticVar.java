@@ -17,10 +17,9 @@ public class ArthimeticVar {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 Variables v1=new  Variables();
-		 v1.mod();
-		 v1.mul();
-		 v1.div();
+		 //v1.mod();
+		 //v1.mul();
+		// v1.div();
 
 	}
 }
-

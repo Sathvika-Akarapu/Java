@@ -2,13 +2,13 @@
 public class Variables {
 	int a =2,b=3;
 	static int c=4,d=1;
-	void and() {
+	public void and() {
 		System.out.println(a>b&&a<b);
 	}
-	void or() {
+	public void or() {
 		System.out.println(c>d||c<d);
 	}
-	void not() {
+	public void not() {
 		int e=8,t=8;
 		System.out.println(e!=t);
 	}
@@ -20,5 +20,5 @@ public class Variables {
 		//System.out.println((Variables.a<Variables.b)||(Variables.a>Variables.b))
 		 v1.not();
 	}
-
+	
 }
